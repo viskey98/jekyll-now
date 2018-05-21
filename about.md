@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Pursuing CSE Btech (4-year) degree in Indian Institute of Technology Patna.
 
-### More Information
+### More about me 
 
-A place to include any other types of information that you'd like to include about yourself.
+Interested in Cyber security and Competitive programming.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[viswakhanumanthgk@gmail.com](viswakhanumanthgk@gmail.com)
