@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Pursuing CSE Btech (4-year) degree in Indian Institute of Technology Patna.
+CSE Major at Indian Institute of Technology Patna.
 
 ### More about me 
 
