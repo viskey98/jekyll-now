@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 ---
-## About me
 
 - CSE Major at [Indian Institute of Technology Patna](https://www.iitp.ac.in/).
 
