@@ -1,1 +1,6 @@
-Email: viswakhanumanthgk@gmail.com
+---
+layout: post
+title: Contact-details
+---
+## Email:
+viswakhanumanthgk@gmail.com
