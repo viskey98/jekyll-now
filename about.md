@@ -9,7 +9,3 @@ CSE Major at Indian Institute of Technology Patna.
 ### More about me 
 
 Interested in Cyber security and Competitive programming.
-
-### Contact me
-
-[Email](contact.md)
