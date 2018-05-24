@@ -12,4 +12,4 @@ Interested in Cyber security and Competitive programming.
 
 ### Contact me
 
-[viswakhanumanthgk@gmail.com](viswakhanumanthgk@gmail.com)
+[Email](contact.md)
