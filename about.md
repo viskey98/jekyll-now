@@ -16,7 +16,7 @@ permalink: /about/
 
 ### More about me 
 I like the concept of cyber-security in today's cyber-world
-and believe, `Information is power!`.
+and believe, `Information is power!`
 
 In the free time I usually watch Korean TV series, a lot of K-pop <3
 Or play PC games like: Battlefield 1 and CS:GO
