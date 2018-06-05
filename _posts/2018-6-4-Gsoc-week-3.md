@@ -1,6 +1,6 @@
 ---
 layout: post
-title: GSoC week-2
+title: GSoC week-3
 ---
 This is the third week of `GSoc 2018`
 
