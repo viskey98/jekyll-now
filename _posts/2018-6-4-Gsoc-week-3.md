@@ -18,7 +18,6 @@ Reconstruct cloner ([merged](https://github.com/mushorg/snare/pull/141))
  
 * Step 6: 
 Re-write tests ([merged](https://github.com/mushorg/snare/pull/142))
-
     * Re-write all unittests to be compatible with latest snare update.
 
 At this point, snare reconstruction is finally completed
