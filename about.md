@@ -15,5 +15,10 @@ permalink: /about/
 - Codechef handle: [viSkey](https://www.codechef.com/users/viskey)
 
 ### More about me 
+I like the concept of cyber-security in today's cyber-world
+and believe, `Information is power!`.
 
-Interested in Cyber security and Competitive programming.
+In the free time I usually watch Korean TV series, a lot of K-pop <3
+Or play PC games like: Battlefield 1 and CS:GO
+
+Click on any of the footers below (mail, insta etc) to contact me :)
