@@ -15,9 +15,9 @@ permalink: /about/
 - Codechef handle: [viSkey](https://www.codechef.com/users/viskey)
 
 ### More about me 
-I love solving and finding solutions to problems. I do a lot of sport programming.
-I also like the concept of cyber-security in today's cyber-world
-and believe, `Information is power!`
+I love solving problems, let it be real life, coding contest or bug in a software, I relish solving them.
+
+I believe that cyber-security is very crucial in this cyber-world. I work on playing my part to track down maliciousness, fix the flaws in the system and enhance the cyber-security.
 
 In my free time I watch Korean TV series, listen to k-pop music or play PC games.
 
