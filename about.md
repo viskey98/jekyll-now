@@ -10,7 +10,7 @@ permalink: /about/
 
 - GSoC'18 at [The honeynet project](https://honeynet.org/).
 
-- Codeforces handle: [Minyoo](http://codeforces.com/profile/SMinyoo)
+- Codeforces handle: [Minyoo](http://codeforces.com/profile/Minyoo)
 
 - Codechef handle: [viSkey](https://www.codechef.com/users/viskey)
 
